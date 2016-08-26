@@ -1,5 +1,10 @@
 # Change Log
 
+## [v0.2.0](https://github.com/cball/moment-addon-example/tree/v0.2.0) (2016-08-26)
+[Full Changelog](https://github.com/cball/moment-addon-example/compare/v0.1.1...v0.2.0)
+
+- auto generate changelog [\#2](https://github.com/cball/moment-addon-example/pull/2) ([cball](https://github.com/cball))
+
 ## [v0.1.1](https://github.com/cball/moment-addon-example/tree/v0.1.1) (2016-08-26)
 [Full Changelog](https://github.com/cball/moment-addon-example/compare/v0.1.0...v0.1.1)
 
